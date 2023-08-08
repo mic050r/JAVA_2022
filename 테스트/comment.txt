@@ -1,0 +1,5 @@
+/*뉴소과 
+   1학ㄱ년 1남
+   앙*/
+public static void main(String[ ] args){  //파일이름은 반드시 public이 이ㅆ는것으로
+코멘트 존나 중요 가산점 있음
